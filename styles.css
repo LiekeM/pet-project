@@ -46,8 +46,9 @@ img {
 }
 
 footer {
+  margin-top: 120px;
   color: whitesmoke;
-  background-color: #326e63;
+  background-color: #223601;
 }
 
 btn {
